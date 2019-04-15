@@ -15,12 +15,6 @@
 
 using namespace arma;
 
-void test()
-{
-	arma::vec* vector = ImageUtils::getImageVector("C:\\Users\\Tautvis\\Desktop\\Projects\\generative-adversarial-network\\x64\\Debug\\image.jpg", IMAGE_SIZE, IMAGE_SIZE);
-	delete vector;
-}
-
 void testDiscriminator()
 {
 	ArtDiscriminatorModel* model = new ArtDiscriminatorModel(INPUT_LENGTH);
