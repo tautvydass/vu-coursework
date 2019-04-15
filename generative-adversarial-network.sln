@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "generative-adversarial-network", "generative-adversarial-network\generative-adversarial-network.vcxproj", "{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Debug|x64.ActiveCfg = Debug|x64
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Debug|x64.Build.0 = Debug|x64
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Debug|x86.Build.0 = Debug|Win32
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Release|x64.ActiveCfg = Release|x64
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Release|x64.Build.0 = Release|x64
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Release|x86.ActiveCfg = Release|Win32
+		{B6BC62E5-BD36-4277-A891-EF2BCB453C8A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BCB2BB2-7A49-4AEB-8C9F-EA997F40C7EE}
+	EndGlobalSection
+EndGlobal
